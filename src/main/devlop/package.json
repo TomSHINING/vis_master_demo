@@ -32,7 +32,7 @@
     "html-webpack-plugin": "2.29.0",
     "immutable": "^3.8.1",
     "jest": "20.0.4",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "luma.gl": "^4.0.2",
     "mz": "^2.7.0",
     "node-sass": "^4.5.3",
