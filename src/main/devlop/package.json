@@ -35,7 +35,7 @@
     "jquery": "^3.2.1",
     "luma.gl": "^4.0.2",
     "mz": "^2.7.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "nprogress": "^0.2.0",
     "object-assign": "4.1.1",
     "postcss-flexbugs-fixes": "3.0.0",
